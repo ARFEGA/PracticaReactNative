@@ -14,3 +14,7 @@
 * **Un formulario funcional (Aunque no persista los datos en nuestra API)**
 	
 	(**IMPLEMENTADO**)
+	
+![grab-landing-page](https://github.com/ARFEGA/PracticaReactNative/git/1.gif)
+
+![grab-landing-page](https://github.com/ARFEGA/PracticaReactNative/git/2.gif)

@@ -38,7 +38,7 @@ export default class extends React.Component{
         //api.fetchHeroFromApi()
         //Status bar en blanco, la hora, la señal, la batería etc..
         StatusBar.setBarStyle('light-content')
-        StatusBar.setBackgroundColor('rgb(24,24,24)')
+        
        
     }
     
