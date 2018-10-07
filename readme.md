@@ -17,4 +17,4 @@
 	
 * **DEMO**
 
-<img src="https://github.com/ARFEGA/PracticaReactNative/blob/master/gif/1.gif" width="200" height="400" /><img src="https://github.com/ARFEGA/PracticaReactNative/blob/master/gif/2.gif" width="200" height="400" />
+<img src="https://github.com/ARFEGA/PracticaReactNative/blob/master/gif/1.gif" width="200" height="400" />      <img src="https://github.com/ARFEGA/PracticaReactNative/blob/master/gif/2.gif" width="200" height="400" />
