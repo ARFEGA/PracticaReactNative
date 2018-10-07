@@ -15,6 +15,6 @@
 	
 	(**IMPLEMENTADO**)
 	
-![grab-landing-page](https://github.com/ARFEGA/PracticaReactNative/git/1.gif)
+![Gif demo 1](https://github.com/ARFEGA/PracticaReactNative/gif/1.gif)
 
-![grab-landing-page](https://github.com/ARFEGA/PracticaReactNative/git/2.gif)
+![Gif demo 2](https://github.com/ARFEGA/PracticaReactNative/gif/2.gif)
