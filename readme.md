@@ -18,3 +18,7 @@
 ![Gif demo 1](https://github.com/ARFEGA/PracticaReactNative/tree/master/gif/1.gif)
 
 ![Gif demo 2](https://github.com/ARFEGA/PracticaReactNative/tree/master/gif/2.gif)
+
+<img src="https://github.com/ARFEGA/PracticaReactNative/blob/master/gif/1.gif" width="40" height="40" />
+
+<img src="https://github.com/ARFEGA/PracticaReactNative/blob/master/gif/2.gif" width="40" height="40" />
