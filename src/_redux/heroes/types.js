@@ -1,0 +1,3 @@
+export const HERO_UPDATE_LIST = 'HERO_UPDATE_LIST'
+export const HERO_SET_FETCHING = 'HERO_SET_FETCHING'
+export const HERO_SET_ITEM = 'HERO_SET_ITEM'
